@@ -1,6 +1,0 @@
-D:\dotNetApplication\TestApplication\TestApplication\bin\Debug\TestApplication.exe.config
-D:\dotNetApplication\TestApplication\TestApplication\bin\Debug\TestApplication.exe
-D:\dotNetApplication\TestApplication\TestApplication\bin\Debug\TestApplication.pdb
-D:\dotNetApplication\TestApplication\TestApplication\obj\Debug\TestApplication.csprojResolveAssemblyReference.cache
-D:\dotNetApplication\TestApplication\TestApplication\obj\Debug\TestApplication.exe
-D:\dotNetApplication\TestApplication\TestApplication\obj\Debug\TestApplication.pdb
