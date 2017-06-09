@@ -11,12 +11,6 @@ namespace TestApplication
         static void Main(string[] args)
         {
             Console.WriteLine("dasdfsafds");
-            Console.WriteLine("sdADadsdADa");
-            Console.WriteLine("sdADadsdADa");
-            Console.WriteLine("sdADadsdADa");
-            Console.WriteLine("sdADadsdADa");
-            Console.WriteLine("sdADadsdADa");
-            Console.WriteLine("sdADadsdADa");
             Console.ReadLine();
         }
     }

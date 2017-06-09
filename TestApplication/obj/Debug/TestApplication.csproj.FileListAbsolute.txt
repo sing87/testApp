@@ -4,3 +4,6 @@ D:\dotNetApplication\TestApplication\TestApplication\bin\Debug\TestApplication.p
 D:\dotNetApplication\TestApplication\TestApplication\obj\Debug\TestApplication.csprojResolveAssemblyReference.cache
 D:\dotNetApplication\TestApplication\TestApplication\obj\Debug\TestApplication.exe
 D:\dotNetApplication\TestApplication\TestApplication\obj\Debug\TestApplication.pdb
+D:\git\testApp\TestApplication\bin\Debug\TestApplication.exe.config
+D:\git\testApp\TestApplication\obj\Debug\TestApplication.exe
+D:\git\testApp\TestApplication\obj\Debug\TestApplication.pdb
